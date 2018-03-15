@@ -1,0 +1,50 @@
+{
+	"grillska-1" : {
+		"name" : "Grillska 1",
+		"participants" : ["Kalle Kallesson", "Jon Jonsson"],
+		"result" : {
+			"Praktik" : 0,
+			"Teori" : 0
+		}
+	},
+	"grillska-2" : {
+		"name" : "Grillska 2",
+		"participants" : ["Kalle Kallesson", "Jon Jonsson"],
+		"result" : {
+			"Praktik" : 0,
+			"Teori" : 0
+		}
+	},
+	"thorildsplan-1" : {
+		"name" : "Thorildsplan 1",
+		"participants" : ["Kalle Kallesson", "Jon Jonsson"],
+		"result" : {
+			"Praktik" : 0,
+			"Teori" : 0
+		}
+	},
+	"thorildsplan-2" : {
+		"name" : "Thorildsplan 2",
+		"participants" : ["Kalle Kallesson", "Jon Jonsson"],
+		"result" : {
+			"Praktik" : 0,
+			"Teori" : 0
+		}
+	},
+	"westerlundska-1" : {
+		"name" : "Westerlundska 2",
+		"participants" : ["Anders Andersson", "Frans Fransson"],
+		"result" : {
+			"Praktik" : 0,
+			"Teori" : 0
+		}
+	},
+	"westerlundska-2" : {
+		"name" : "Westerlundska 3",
+		"participants" : ["Lisa Lisasson", "Pelle Pellesson"],
+		"result" : {
+			"Praktik" : 0,
+			"Teori" : 0
+		}
+	}
+}

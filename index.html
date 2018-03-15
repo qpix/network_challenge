@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+		<title>Network Challenge</title>
+		<style>
+			.progress-bar {
+				-webkit-transition: none !important;
+				transition: none !important;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="progress" style="margin-bottom: 5px"><div id="nextUpdateProgress" class="progress-bar progress-bar-striped progress-bar-animated bg-success"></div></div>
+			<h1>Network Challenge</h1>
+			<table class="table">
+				<thead>
+					<tr>
+						<th scope="col">#</th>
+						<th scope="col">Lag</th>
+						<th scope="col">Poäng</th>
+					</tr>
+				</thead>
+				<tbody id="team-table"></tbody>
+			</table>
+			<div class="row" id="team-grid"></div>
+		</div>
+
+		<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+		<script src="network_challenge.js"></script>
+		<script src="live.js"></script>
+	</body>
+</html>
