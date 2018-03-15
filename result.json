@@ -32,7 +32,7 @@
 		}
 	},
 	"westerlundska-1" : {
-		"name" : "Westerlundska 2",
+		"name" : "Westerlundska 1",
 		"participants" : ["Anders Andersson", "Frans Fransson"],
 		"result" : {
 			"Praktik" : 0,
@@ -40,7 +40,7 @@
 		}
 	},
 	"westerlundska-2" : {
-		"name" : "Westerlundska 3",
+		"name" : "Westerlundska 2",
 		"participants" : ["Lisa Lisasson", "Pelle Pellesson"],
 		"result" : {
 			"Praktik" : 0,
