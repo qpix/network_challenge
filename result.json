@@ -1,7 +1,7 @@
 {
 	"grillska-1" : {
 		"name" : "Grillska 1",
-		"participants" : ["Kalle Kallesson", "Jon Jonsson"],
+		"participants" : ["Rasmus Karlsson", "Emil Edvardsson"],
 		"result" : {
 			"Praktik" : 0,
 			"Teori" : 0
@@ -9,7 +9,23 @@
 	},
 	"grillska-2" : {
 		"name" : "Grillska 2",
-		"participants" : ["Kalle Kallesson", "Jon Jonsson"],
+		"participants" : ["Linus Lindström", "Adrian Estelli"],
+		"result" : {
+			"Praktik" : 0,
+			"Teori" : 0
+		}
+	},
+	"nti-1" : {
+		"name" : "NTI 1",
+		"participants" : ["Joar Classon", "Ciaran Sundborg"],
+		"result" : {
+			"Praktik" : 0,
+			"Teori" : 0
+		}
+	},
+	"nti-2" : {
+		"name" : "NTI 2",
+		"participants" : ["Ivar Myrberg", "Julian Steinman"],
 		"result" : {
 			"Praktik" : 0,
 			"Teori" : 0
@@ -17,7 +33,7 @@
 	},
 	"thorildsplan-1" : {
 		"name" : "Thorildsplan 1",
-		"participants" : ["Kalle Kallesson", "Jon Jonsson"],
+		"participants" : ["Fahad Jamil", "Joakim Edstrand"],
 		"result" : {
 			"Praktik" : 0,
 			"Teori" : 0
@@ -25,23 +41,7 @@
 	},
 	"thorildsplan-2" : {
 		"name" : "Thorildsplan 2",
-		"participants" : ["Kalle Kallesson", "Jon Jonsson"],
-		"result" : {
-			"Praktik" : 0,
-			"Teori" : 0
-		}
-	},
-	"westerlundska-1" : {
-		"name" : "Westerlundska 1",
-		"participants" : ["Anders Andersson", "Frans Fransson"],
-		"result" : {
-			"Praktik" : 0,
-			"Teori" : 0
-		}
-	},
-	"westerlundska-2" : {
-		"name" : "Westerlundska 2",
-		"participants" : ["Lisa Lisasson", "Pelle Pellesson"],
+		"participants" : ["Emilio Haataja", "Max Engman"],
 		"result" : {
 			"Praktik" : 0,
 			"Teori" : 0
